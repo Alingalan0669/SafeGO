@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SafeGo — Run Guide
 
 **Prepare. Pack. Evacuate.**
@@ -551,3 +552,6 @@ python -m http.server 8000 --directory build\web
 ```
 
 For the safest live demo, use **Chrome or Edge**. For a mobile demo with working phone calls, use an **Android phone** with the SDK installed.
+=======
+# SafeGO
+>>>>>>> d72e8bbab305467c778330d145c36d73db609c3d
