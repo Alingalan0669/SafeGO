@@ -1,0 +1,5 @@
+package ph.safego.safego
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()

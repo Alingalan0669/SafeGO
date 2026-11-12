@@ -1,0 +1,58 @@
+{
+  "notice": "Demo data only. Confirm evacuation centers and phone numbers with your barangay before an emergency.",
+  "centers": [
+    {
+      "id": "san-isidro-es",
+      "name": "San Isidro Elementary School",
+      "address": "Purok 3, Brgy. San Isidro, San Pablo City, Laguna",
+      "barangay": "San Isidro",
+      "distanceKm": 1.2,
+      "isDemo": true,
+      "notes": "Covered court is the assembly area. Bring IDs, medicines and water."
+    },
+    {
+      "id": "san-isidro-covered-court",
+      "name": "San Isidro Covered Court",
+      "address": "Purok 1, Brgy. San Isidro, San Pablo City, Laguna",
+      "barangay": "San Isidro",
+      "distanceKm": 2.4,
+      "isDemo": true,
+      "notes": "Higher ground. Pet owners should ask staff about the designated pet area."
+    },
+    {
+      "id": "sto-nino-gym",
+      "name": "Sto. Niño Barangay Gym",
+      "address": "Brgy. Sto. Niño, San Pablo City, Laguna",
+      "barangay": "Sto. Niño",
+      "distanceKm": 3.1,
+      "isDemo": true,
+      "notes": "Backup center when San Isidro reaches capacity."
+    }
+  ],
+  "contacts": [
+    {
+      "id": "contact-ana",
+      "name": "Ana",
+      "relationship": "Sister",
+      "phone": "+63 917 000 0001",
+      "isSample": true,
+      "isEmergencyService": false
+    },
+    {
+      "id": "contact-barangay",
+      "name": "San Isidro Barangay Hall",
+      "relationship": "Local hotline",
+      "phone": "+63 49 000 0002",
+      "isSample": true,
+      "isEmergencyService": false
+    },
+    {
+      "id": "contact-emergency",
+      "name": "Emergency services",
+      "relationship": "National hotline",
+      "phone": "911",
+      "isSample": false,
+      "isEmergencyService": true
+    }
+  ]
+}
