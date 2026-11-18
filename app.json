@@ -24,7 +24,6 @@
       "output": "static"
     },
     "plugins": [
-      "expo-status-bar",
       "expo-router",
       [
         "expo-font",
