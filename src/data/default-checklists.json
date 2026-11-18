@@ -1,0 +1,161 @@
+{
+  "prepare": [
+    {
+      "id": "prep.plan",
+      "title": "Family emergency plan",
+      "detail": "Agree on what everyone will do.",
+      "category": "contacts"
+    },
+    {
+      "id": "prep.contacts",
+      "title": "Emergency contacts",
+      "detail": "Save family and local contacts.",
+      "category": "contacts"
+    },
+    {
+      "id": "prep.documents",
+      "title": "Important documents",
+      "detail": "Keep copies in a waterproof pouch.",
+      "category": "documents"
+    },
+    {
+      "id": "prep.meeting",
+      "title": "Family meeting point",
+      "detail": "Choose a safe place outside home.",
+      "category": "tools"
+    }
+  ],
+  "packBase": [
+    {
+      "id": "pack.water",
+      "title": "Drinking water",
+      "detail": "3 days for {people} - about {liters} L.",
+      "category": "water"
+    },
+    {
+      "id": "pack.food",
+      "title": "Ready-to-eat food",
+      "detail": "Family portions for 3 days.",
+      "category": "food"
+    },
+    {
+      "id": "pack.medicines",
+      "title": "Daily medicines",
+      "detail": "Prescriptions and a medicine list.",
+      "category": "medical"
+    },
+    {
+      "id": "pack.firstAid",
+      "title": "First-aid kit",
+      "detail": "Dressings, antiseptic and supplies.",
+      "category": "medical"
+    },
+    {
+      "id": "pack.flashlight",
+      "title": "Flashlight",
+      "detail": "Keep it easy to reach.",
+      "category": "tools"
+    },
+    {
+      "id": "pack.powerBank",
+      "title": "Power bank & cables",
+      "detail": "Charge before a storm.",
+      "category": "tools"
+    },
+    {
+      "id": "pack.documents",
+      "title": "Important documents",
+      "detail": "Waterproof copies of IDs and records.",
+      "category": "documents"
+    },
+    {
+      "id": "pack.radio",
+      "title": "Battery radio",
+      "detail": "For local advisories.",
+      "category": "tools"
+    },
+    {
+      "id": "pack.batteries",
+      "title": "Spare batteries",
+      "detail": "Match your radio and flashlight.",
+      "category": "tools"
+    },
+    {
+      "id": "pack.clothes",
+      "title": "Clothes & rainwear",
+      "detail": "One set per family member.",
+      "category": "clothing"
+    },
+    {
+      "id": "pack.hygiene",
+      "title": "Hygiene supplies",
+      "detail": "Soap, sanitary items and masks.",
+      "category": "medical"
+    },
+    {
+      "id": "pack.cash",
+      "title": "Cash & spare keys",
+      "detail": "Small bills in a waterproof pouch.",
+      "category": "documents"
+    },
+    {
+      "id": "pack.whistle",
+      "title": "Whistle",
+      "detail": "One for each family member.",
+      "category": "tools"
+    }
+  ],
+  "packExtras": {
+    "children": [
+      {
+        "id": "pack.children",
+        "title": "Children's supplies",
+        "detail": "Snacks, comfort item and spare clothes.",
+        "category": "children",
+        "isPersonalised": true
+      }
+    ],
+    "seniors": [
+      {
+        "id": "pack.seniors",
+        "title": "Senior supplies",
+        "detail": "Glasses, hearing-aid batteries and easy food.",
+        "category": "seniors",
+        "isPersonalised": true
+      }
+    ],
+    "disability": [
+      {
+        "id": "pack.disability",
+        "title": "Disability support supplies",
+        "detail": "Mobility aid, extra medicine and support plan.",
+        "category": "disability",
+        "isPersonalised": true
+      }
+    ],
+    "pets": [
+      {
+        "id": "pack.petFood",
+        "title": "Pet food & water",
+        "detail": "Three days of food and a travel bowl.",
+        "category": "pets",
+        "isPersonalised": true
+      },
+      {
+        "id": "pack.petCarrier",
+        "title": "Pet carrier & leash",
+        "detail": "Keep pets secure and calm during travel.",
+        "category": "pets",
+        "isPersonalised": true
+      }
+    ],
+    "contacts": [
+      {
+        "id": "pack.contacts",
+        "title": "Emergency contact list",
+        "detail": "Paper copy for every family member.",
+        "category": "contacts"
+      }
+    ]
+  }
+}
